@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Insurance</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+<div class="header">
+  <h1>Insurance Bazaar</h1>
+  <p>Start buying your first insurance policy here at most affordable prices</p>
+</div>
+  <div class="navbar">
+  <a href="#">Home</a>
+  <a href="#">Insurance Policies</a>
+  <a href="https://caccount.policybazaar.com/?source=pbheader">Dashboard</a>
+  <a href="" class="right">Register Now</a>
+</div>
+ 
+  <div class="main">
+    <h><b>Why do you need insurance policy?</b></h>
+    <p>Insurance plans are beneficial to anyone looking to protect their family, assets/property and themselves from financial risk/losses: Insurance plans will help you pay for medical emergencies, hospitalization, contraction of any illnesses and treatment, and medical care required in the future.</p>
+    <h><b>Which insurance policy is best for you?</b></h>
+    <p>As individuals it is inherent to differ. Each individual's insurance needs and requirements are different from that of the others. LIC's Insurance Plans are policies that talk to you individually and give you the most suitable options that can fit your requirement.We offer you best handpicked policies from our experts.</p>
+    <h><b>Why insurance policy from us?</b></h>
+    <p>You are thinking that there are many other websites and companies that offer insurance policies.Than why insurance policy from us. It is because our experts compare insurance policies from more than 50 websites and gives you the policy that suits you.We offer all kinds of insurance:</p>
+       <a href="https://termlife.policybazaar.com/quotes/MjE0NTU2NjQ4?utm_campaign=Policy_Bazaar00Brand&utm_medium=ppc&utm_source=google_brand&utm_term=Policy%2Bbazaar&utm_content=home_v5&isDefaultCity=false&isProgressiveJourney=true&payType=1&page=1">Term Life Insurance</a><br>
+  <a href="https://health.policybazaar.com/?pq=health0&pb_source=google_brand&pb_medium=ppc&pb_term=Policy%20bazaar&pb_campaign=Policy_Bazaar00Brand&gclid=CjwKCAjw1cX0BRBmEiwAy9tKHi9gsdCBQll7_BbQ4413LSAHAOzFOIoekYeXHq4XJMRghhocScEqOBoCwwEQAvD_BwE&utm_content=home_v5">Health Insurance</a><br>
+  <a href="https://ci.policybazaar.com/?pb_source=google_brand&pb_medium=ppc&pb_term=Policy%20bazaar&pb_campaign=Policy_Bazaar00Brand&gclid=CjwKCAjw1cX0BRBmEiwAy9tKHi9gsdCBQll7_BbQ4413LSAHAOzFOIoekYeXHq4XJMRghhocScEqOBoCwwEQAvD_BwE&utm_content=home_v5">Car Insurance</a><br>
+      <a href="https://twowheeler.policybazaar.com/?pb_source=google_brand&pb_medium=ppc&pb_term=Policy%20bazaar&pb_campaign=Policy_Bazaar00Brand&gclid=CjwKCAjw1cX0BRBmEiwAy9tKHi9gsdCBQll7_BbQ4413LSAHAOzFOIoekYeXHq4XJMRghhocScEqOBoCwwEQAvD_BwE&utm_content=home_v5">2 Wheeler Insurance</a>
+  </div>
+<div class="footer">
+ <h>Home</h><br>
+  <h>About us</h><br>
+     <h>Careers</h><br>
+    <h>Terms & Privacy policies</h><br>
+  <h>Articles</h><br>
+    <h>Contact Us</h><br>
+</div> 
+</body>
+</html>
